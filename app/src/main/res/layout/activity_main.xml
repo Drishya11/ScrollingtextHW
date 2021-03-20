@@ -19,7 +19,8 @@
         android:text="@string/article_title"
         android:textAppearance="@android:style/TextAppearance.Large"
         android:textColor="@android:color/white"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:layout_alignParentLeft="true" />
 
 
     <ScrollView
