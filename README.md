@@ -1,1 +1,1 @@
-![](app/src/main/res/drawable/scrollingtexthw.gif)
+![](app/src/main/res/drawable/homework.gif)
